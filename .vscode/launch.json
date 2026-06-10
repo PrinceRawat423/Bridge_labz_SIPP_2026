@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "KmToMiles",
+      "request": "launch",
+      "mainClass": "KmToMiles",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
       "name": "HashMapDemo",
       "request": "launch",
       "mainClass": "HashMapDemo",
