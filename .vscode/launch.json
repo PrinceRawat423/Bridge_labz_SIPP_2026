@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FeeDiscount",
+      "request": "launch",
+      "mainClass": "FeeDiscount",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
       "name": "KmToMiles",
       "request": "launch",
       "mainClass": "KmToMiles",
