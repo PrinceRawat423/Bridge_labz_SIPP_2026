@@ -1,0 +1,69 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "HashMapDemo",
+      "request": "launch",
+      "mainClass": "HashMapDemo",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "HashMap",
+      "request": "launch",
+      "mainClass": "HashMap",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "EarthVolume",
+      "request": "launch",
+      "mainClass": "EarthVolume",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "DiscountedFee",
+      "request": "launch",
+      "mainClass": "DiscountedFee",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "pensDistribution",
+      "request": "launch",
+      "mainClass": "pensDistribution",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "profitLoss",
+      "request": "launch",
+      "mainClass": "profitLoss",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "distanceconvert",
+      "request": "launch",
+      "mainClass": "distanceconvert",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "AveragePCM",
+      "request": "launch",
+      "mainClass": "AveragePCM",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "Run Harry",
+      "request": "launch",
+      "mainClass": "Harry",
+      "cwd": "${workspaceFolder}/core-java-practice/gcr-codebase/programming-elements",
+      "console": "integratedTerminal"
+    }
+  ]
+}
