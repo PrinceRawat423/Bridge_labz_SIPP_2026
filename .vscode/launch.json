@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DistanceConverter",
+      "request": "launch",
+      "mainClass": "DistanceConverter",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "SquareSide",
+      "request": "launch",
+      "mainClass": "SquareSide",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "TriangleArea",
+      "request": "launch",
+      "mainClass": "TriangleArea",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "BasicCalculator",
+      "request": "launch",
+      "mainClass": "BasicCalculator",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
       "name": "FeeDiscount",
       "request": "launch",
       "mainClass": "FeeDiscount",
