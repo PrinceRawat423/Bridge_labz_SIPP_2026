@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CylinderVolume",
+      "request": "launch",
+      "mainClass": "CylinderVolume",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "RectangleArea",
+      "request": "launch",
+      "mainClass": "RectangleArea",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "SimpleIntrest",
+      "request": "launch",
+      "mainClass": "SimpleIntrest",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
       "name": "DistanceConverter",
       "request": "launch",
       "mainClass": "DistanceConverter",
