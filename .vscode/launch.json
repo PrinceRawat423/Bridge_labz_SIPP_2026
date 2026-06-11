@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaximumHandshakes",
+      "request": "launch",
+      "mainClass": "MaximumHandshakes",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "TotalPurchasePrice",
+      "request": "launch",
+      "mainClass": "TotalPurchasePrice",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
       "name": "CylinderVolume",
       "request": "launch",
       "mainClass": "CylinderVolume",
