@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DoubleOpt",
+      "request": "launch",
+      "mainClass": "DoubleOpt",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "intOperation",
+      "request": "launch",
+      "mainClass": "intOperation",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
       "name": "MaximumHandshakes",
       "request": "launch",
       "mainClass": "MaximumHandshakes",
