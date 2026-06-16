@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "VotingForClass",
+      "request": "launch",
+      "mainClass": "VotingForClass",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "vote",
+      "request": "launch",
+      "mainClass": "vote",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "NumbersAnalysis",
+      "request": "launch",
+      "mainClass": "NumbersAnalysis",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "MultiplicationTableArray",
+      "request": "launch",
+      "mainClass": "MultiplicationTableArray",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "MultiplicationTable6to9Array",
+      "request": "launch",
+      "mainClass": "MultiplicationTable6to9Array",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "FirstIsSmallest",
+      "request": "launch",
+      "mainClass": "FirstIsSmallest",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
       "name": "DoubleOpt",
       "request": "launch",
       "mainClass": "DoubleOpt",
