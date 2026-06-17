@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BMIWithArrays",
+      "request": "launch",
+      "mainClass": "BMIWithArrays",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "BMIWith2DArray",
+      "request": "launch",
+      "mainClass": "BMIWith2DArray",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
       "name": "VotingForClass",
       "request": "launch",
       "mainClass": "VotingForClass",
