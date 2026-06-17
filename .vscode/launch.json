@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SimpleInterest",
+      "request": "launch",
+      "mainClass": "SimpleInterest",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
       "name": "BMIWithArrays",
       "request": "launch",
       "mainClass": "BMIWithArrays",
