@@ -2,11 +2,12 @@
   "java.debug.settings.console": "integratedTerminal",
   "java.debug.settings.forceBuildBeforeLaunch": false,
   "java.project.sourcePaths": [
-    "core-java-practice/gcr-codebase/Arrays",
-    "core-java-practice/gcr-codebase/control-flow",
-    "core-java-practice/gcr-codebase/programming-elements",
-    "oops-practice/gcr-codebase/encapsulation",
+    "oops-practice/gcr-codebase/polymorphism",
     "oops-practice/gcr-codebase/inheritance",
-    "oops-practice/gcr-codebase/polymorphism"
+    "oops-practice/gcr-codebase/encapsulation",
+    "core-java-practice/gcr-codebase/programming-elements",
+    "core-java-practice/gcr-codebase/control-flow",
+    "core-java-practice/gcr-codebase/Arrays",
+    "core-java-practice/gcr-codebase/Strings"
   ]
 }

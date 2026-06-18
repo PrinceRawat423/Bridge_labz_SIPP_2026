@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StringCompareCharAt",
+      "request": "launch",
+      "mainClass": "StringCompareCharAt",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "NullPointerDemo",
+      "request": "launch",
+      "mainClass": "NullPointerDemo",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "IntOperation",
+      "request": "launch",
+      "mainClass": "IntOperation",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
       "name": "SimpleInterest",
       "request": "launch",
       "mainClass": "SimpleInterest",
