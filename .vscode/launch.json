@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StringSubstringCharAt",
+      "request": "launch",
+      "mainClass": "StringSubstringCharAt",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "EmployeeBonus",
+      "request": "launch",
+      "mainClass": "EmployeeBonus",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "StringIndexOutOfBoundsDemo",
+      "request": "launch",
+      "mainClass": "StringIndexOutOfBoundsDemo",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
       "name": "StringCompareCharAt",
       "request": "launch",
       "mainClass": "StringCompareCharAt",

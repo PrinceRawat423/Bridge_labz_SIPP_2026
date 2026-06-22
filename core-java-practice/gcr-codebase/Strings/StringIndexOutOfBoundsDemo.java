@@ -5,9 +5,14 @@ public class StringIndexOutOfBoundsDemo {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter text: ");
-        String text = sc.next();
+        String text = sc.nextLine();
 
         System.out.println("This will show the exception:");
+        try {
+            generateStringIndexOutOfBoundsException(text);
+        } catch (StringIndexOutOfBoundsException e) {
+            System.out.println("StringIndexOutOfBoundsException caught: " + e.getMessage());
+        }
 
         System.out.println("This will handle the exception:");
         handleStringIndexOutOfBoundsException(text);

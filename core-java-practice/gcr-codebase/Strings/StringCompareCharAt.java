@@ -5,9 +5,9 @@ public class StringCompareCharAt {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter first string: ");
-        String first = sc.next();
+        String first = sc.nextLine();
         System.out.print("Enter second string: ");
-        String second = sc.next();
+        String second = sc.nextLine();
 
         boolean charAtResult = compareUsingCharAt(first, second);
         boolean builtInResult = first.equals(second);
