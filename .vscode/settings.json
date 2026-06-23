@@ -7,8 +7,9 @@
     "oops-practice/gcr-codebase/encapsulation",
     "core-java-practice/gcr-codebase/programming-elements",
     "core-java-practice/gcr-codebase/control-flow",
-    "core-java-practice/gcr-codebase/Arrays",
     "core-java-practice/gcr-codebase/Strings",
-    "core-java-practice/gcr-codebase/Methods"
+    "core-java-practice/gcr-codebase/Methods",
+    "core-java-practice/gcr-codebase/Arrays",
+    "oops-practice/gcr-codebase/oops fundamentals"
   ]
 }

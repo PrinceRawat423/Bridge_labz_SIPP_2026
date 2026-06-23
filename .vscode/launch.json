@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CharacterFrequency",
+      "request": "launch",
+      "mainClass": "CharacterFrequency",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "UniqueCharacters",
+      "request": "launch",
+      "mainClass": "UniqueCharacters",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "ChocolateDistribution",
+      "request": "launch",
+      "mainClass": "ChocolateDistribution",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "TrigonometricFunctions",
+      "request": "launch",
+      "mainClass": "TrigonometricFunctions",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "SpringSeason",
+      "request": "launch",
+      "mainClass": "SpringSeason",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "PositiveNegativeZero",
+      "request": "launch",
+      "mainClass": "PositiveNegativeZero",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "AthleteRun",
+      "request": "launch",
+      "mainClass": "AthleteRun",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
       "name": "StringSubstringCharAt",
       "request": "launch",
       "mainClass": "StringSubstringCharAt",
