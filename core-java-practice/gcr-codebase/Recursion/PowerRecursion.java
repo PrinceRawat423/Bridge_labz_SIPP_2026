@@ -11,6 +11,7 @@ public class PowerRecursion {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter x and n: ");
         long x = sc.nextLong();
         int n = sc.nextInt();
         System.out.println(power(x, n));

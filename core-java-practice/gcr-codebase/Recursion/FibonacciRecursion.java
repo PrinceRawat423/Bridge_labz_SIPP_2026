@@ -11,6 +11,7 @@ public class FibonacciRecursion {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter N: ");
         int n = sc.nextInt();
         System.out.println(fibonacci(n));
         sc.close();

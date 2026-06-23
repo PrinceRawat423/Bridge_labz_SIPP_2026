@@ -14,6 +14,7 @@ public class PalindromeRecursion {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter string: ");
         String text = sc.nextLine();
         boolean result = isPalindrome(text, 0, text.length() - 1);
         System.out.println(result ? "Palindrome" : "Not Palindrome");
