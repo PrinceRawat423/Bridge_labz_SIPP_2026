@@ -311,6 +311,87 @@
     },
     {
       "type": "java",
+      "name": "PrintNumbersNTo1",
+      "request": "launch",
+      "mainClass": "PrintNumbersNTo1",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91",
+      "cwd": "${workspaceFolder}/core-java-practice/gcr-codebase/Recursion",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "FactorialRecursion",
+      "request": "launch",
+      "mainClass": "FactorialRecursion",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91",
+      "cwd": "${workspaceFolder}/core-java-practice/gcr-codebase/Recursion",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "SumNaturalNumbersRecursion",
+      "request": "launch",
+      "mainClass": "SumNaturalNumbersRecursion",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91",
+      "cwd": "${workspaceFolder}/core-java-practice/gcr-codebase/Recursion",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "ReverseStringRecursion",
+      "request": "launch",
+      "mainClass": "ReverseStringRecursion",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91",
+      "cwd": "${workspaceFolder}/core-java-practice/gcr-codebase/Recursion",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "PalindromeRecursion",
+      "request": "launch",
+      "mainClass": "PalindromeRecursion",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91",
+      "cwd": "${workspaceFolder}/core-java-practice/gcr-codebase/Recursion",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "FibonacciRecursion",
+      "request": "launch",
+      "mainClass": "FibonacciRecursion",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91",
+      "cwd": "${workspaceFolder}/core-java-practice/gcr-codebase/Recursion",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "PowerRecursion",
+      "request": "launch",
+      "mainClass": "PowerRecursion",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91",
+      "cwd": "${workspaceFolder}/core-java-practice/gcr-codebase/Recursion",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "AllSubsetsRecursion",
+      "request": "launch",
+      "mainClass": "AllSubsetsRecursion",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91",
+      "cwd": "${workspaceFolder}/core-java-practice/gcr-codebase/Recursion",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "TowerOfHanoiRecursion",
+      "request": "launch",
+      "mainClass": "TowerOfHanoiRecursion",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91",
+      "cwd": "${workspaceFolder}/core-java-practice/gcr-codebase/Recursion",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
       "name": "Run Harry",
       "request": "launch",
       "mainClass": "Harry",
