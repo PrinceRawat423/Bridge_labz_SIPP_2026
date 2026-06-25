@@ -1,2 +1,0 @@
-This is the first line of info.txt
-This is the second line of info.txt
