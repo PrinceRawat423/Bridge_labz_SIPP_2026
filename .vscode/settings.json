@@ -8,9 +8,9 @@
     "core-java-practice/gcr-codebase/programming-elements",
     "core-java-practice/gcr-codebase/control-flow",
     "core-java-practice/gcr-codebase/Strings",
+    "core-java-practice/gcr-codebase/Recursion",
     "core-java-practice/gcr-codebase/Methods",
     "core-java-practice/gcr-codebase/Arrays",
-    "core-java-practice/gcr-codebase/Recursion",
-    "oops-practice/gcr-codebase/oops fundamentals"
+    "core-java-practice/gcr-codebase/Exception-Handling"
   ]
 }

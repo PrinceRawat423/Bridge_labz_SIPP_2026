@@ -1,0 +1,2 @@
+This is the data file.
+If you can read this, the checked exception demo is working.

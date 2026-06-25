@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TryWithResourcesFileDemo",
+      "request": "launch",
+      "mainClass": "TryWithResourcesFileDemo",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "FileReadIOExceptionDemo",
+      "request": "launch",
+      "mainClass": "FileReadIOExceptionDemo",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "DivideTwoNumbersExceptionDemo",
+      "request": "launch",
+      "mainClass": "DivideTwoNumbersExceptionDemo",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
+      "name": "LogisticsTrackingSystem",
+      "request": "launch",
+      "mainClass": "LogisticsTrackingSystem",
+      "projectName": "Bridge_Labz_SIPP_2026_ac81ba91"
+    },
+    {
+      "type": "java",
       "name": "CharacterFrequency",
       "request": "launch",
       "mainClass": "CharacterFrequency",
